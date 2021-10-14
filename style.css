@@ -1,0 +1,66 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  background-image: url("img/sfondo.jpg");
+  background-size: cover;
+}
+
+header{
+  text-align: center;
+  margin-top: 70px;
+  color: #00FF00;
+}
+
+nav{
+  text-align: center;
+  margin-left: 300px;
+}
+
+main{
+  color: white;
+  margin-left: 150px;
+  padding: 5px;
+}
+
+#logoverde{
+  width: 180px;
+}
+
+.title{
+  font-size: 30px;
+}
+
+.pulsanti{
+  background-color: #00FF00;
+  margin: 10px;
+  padding: 5px;
+  margin-right: 300px;
+  margin-left: 300px;
+}
+
+.seconda{
+  font-size: 10px;
+}
+.terza{
+  font-size: 10px;
+}
+
+.barra1{
+  background-color: orange;
+  color: orange;
+  width: 300px;
+  border-radius: 2px;
+}
+
+.barra2{
+  background-color: green;
+  color: green;
+  width: 150px;
+  border-radius: 2px;
+}
+
+.barra3{
+  background-color: red;
+  color: red;
+  width: 70px;
+  border-radius: 2px;
+}
